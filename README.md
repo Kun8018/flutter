@@ -3,7 +3,7 @@
 
 一个是电影列表，获取网络json文件排成表     
     
-之后在这个基础上去掉了电影数据，添加使用了几个别的组件，swiper、slide_updrawer、左右抽屉、列表 
+之后在这个基础上去掉了电影数据，添加使用了几个别的组件，swiper、slide_updrawer、左右抽屉、列表、搜索框  
   
 感觉flutter确实比reactnative开发友好一些，我还写了electron、node和reactnative的代码，写得好一点之后上传    
   
